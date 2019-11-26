@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import org.joda.time.DateTime;
 import org.junit.Test;
 
-public class Module_UnitTest {
+public class Module_UnitTest { 
 	
 	ArrayList<Module> electronicEngModules = new ArrayList<Module>();
 	ArrayList<Module> biomedicalEngModules = new ArrayList<Module>();
